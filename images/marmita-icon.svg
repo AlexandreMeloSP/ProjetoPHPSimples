@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Ícone de marmita Divina Jô">
+  <!-- Small marmita icon for the navbar brand -->
+  <ellipse cx="32" cy="18" rx="22" ry="6" fill="#3A4A2E"/>
+  <path d="M10,18 L12,46 Q12,52 32,52 Q52,52 52,46 L54,18 Z" fill="#D97706"/>
+  <ellipse cx="32" cy="46" rx="20" ry="4" fill="#A63A2A"/>
+  <!-- Steam wisps -->
+  <path d="M22,12 Q24,8 22,4" stroke="#FBF7EF" stroke-width="2" fill="none" stroke-linecap="round" opacity="0.8"/>
+  <path d="M32,12 Q34,8 32,4" stroke="#FBF7EF" stroke-width="2" fill="none" stroke-linecap="round" opacity="0.8"/>
+  <path d="M42,12 Q44,8 42,4" stroke="#FBF7EF" stroke-width="2" fill="none" stroke-linecap="round" opacity="0.8"/>
+</svg>

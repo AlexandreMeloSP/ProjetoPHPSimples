@@ -1,0 +1,13 @@
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: divinajo
+    ports:
+      - "8080:3001"
+    environment:
+      - PORT=3001
+      - BASE_PATH=/divinajo
+      - NODE_ENV=production
+    restart: unless-stopped
